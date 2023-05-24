@@ -1,6 +1,6 @@
 [![MasterHead](https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)](https://technology369kk.blogspot.com)
-<h1 align="center">Hi 👋, I'm Shailesh</h1>
-<h3 align="center">A FrontEnd developer from India</h3>
+<h1 align="center">Hi 👋, I'M SHAILESH </h1>
+<h3 align="center">A FULL STACK DEVELOPER </h3>
 <img align="right" alt="technologysecret" width="400" src="https://i.etsystatic.com/11122259/r/il/7a6142/1478351854/il_794xN.1478351854_lk24.jpg">
 
 
@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Blog Template](https://technology369kk.blogspot.com/)
 
-- 🌱 I’m currently learning **Web Designing,Java,DSA,VB.Net,Networking, etc**
+- 🌱 I’m currently learning **Web Designing,Java,DSA,VB.Net,XHTML and Networking with Linux OS etc**
 
 - 👯 I’m looking to collaborate on **TechnologySecret**
 
