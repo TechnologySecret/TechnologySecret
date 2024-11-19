@@ -10,9 +10,10 @@
 
 <p align="left"> <a href="https://twitter.com/@shailes31961997" target="blank"><img src="https://img.shields.io/twitter/follow/@shailes31961997?logo=twitter&style=for-the-badge" alt="@shailes31961997" /></a> </p>
 
-- 🔭 I’m currently working on [IT-Company in Bangalore as a technical support and also working on YT and Blogging ](https://technology369kk.blogspot.com/)
+- 🔭 I’m currently working on [YouTube and Blogging ](https://technology369kk.blogspot.com/)
 
 - 🌱 I’m currently learning **Web Designing,Java,DSA,VB.Net,XHTML and Networking with Linux OS etc**
+-  I have 9months of experience in IT-Company as Application Support Role.
 
 - 👯 I’m looking to collaborate on **TechnologySecret**
 
