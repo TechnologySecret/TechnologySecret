@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on [YouTube and Blogging ](https://technology369kk.blogspot.com/)
 
 - 🌱 I’m currently learning **Web Designing,Java,DSA,VB.Net,XHTML and Networking with Linux OS etc**
--  I have 9months of experience in IT-Company as Application Support Role.
+- 🏢 I have 9 Months of experience in IT-Company as Application Support Role.
 
 - 👯 I’m looking to collaborate on **TechnologySecret**
 
